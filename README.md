@@ -1,6 +1,6 @@
 # FacialRecognition Apps
 
-![Result](https://raw.githubusercontent.com/developedbyadifens/FacialRecognitionApps-NodeJs/master/demo.png)
+![Result](https://github.com/withadifens/face-recognition-nodejs/blob/main/demo.png)
 
 ## Installation
 
